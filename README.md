@@ -31,12 +31,12 @@ The player will win if he/she can fill any one of these lines with their symbol.
 ------------------------
 4. Running the Game
    
-1. Install Python, if it isn't already installed.
-2. Save the script as: tic_tac_toe.py
-3. Open your Command Prompt or Terminal.
-4. To run the program, type:
+step 1. Install Python, if it isn't already installed.
+step 2. Save the script as: tic_tac_toe.py
+step 3. Open your Command Prompt or Terminal.
+step 4. To run the program, type:
 python tic_tac_toe.py
-5. Observe whatever is displayed on the screen.
+step 5. Observe whatever is displayed on the screen.
 ---------------------------------
 
 5. What You Learn From This Project

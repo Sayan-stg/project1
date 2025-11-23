@@ -53,5 +53,3 @@ python tic_tac_toe.py
 project-folder/
 │
 ├── tic_tac_toe.py
-
-└── README.md 7. Conclusion Sternbach  Static Rust's goal is to allow you, the programmer, to write safe code without sacrificing performance. This small project is great for anyone just starting with Python. It teaches how a simple game can be built from scratch using basic programming ideas. This game can later be enhanced by adding features such as a computer opponent. A graphical interface, or even a scoring system.

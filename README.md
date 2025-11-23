@@ -7,8 +7,8 @@ This project is a simple and easy-to-understand Tic‑Tac‑Toe game made using 
 It runs in the terminal and lets two players, X and O, take turns by entering positions.
 from 1 to 9. The goal of this project was to practice basic Python concepts while creating
 a small but complete working game. It uses simple logic, lists, and functions—making it
-
 perfect for beginners.
+
 2. How the Game Works
 ----------------------
 - The game uses a list with 9 positions to represent the 3×3 board.

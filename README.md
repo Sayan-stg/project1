@@ -30,7 +30,7 @@ There are 8 possible ways to win:
 The player will win if he/she can fill any one of these lines with their symbol.
 ------------------------
 4. Running the Game
-   
+------------
 1. Install Python, if it isn't already installed.
 2. Save the script as: tic_tac_toe.py
 3. Open your Command Prompt or Terminal.

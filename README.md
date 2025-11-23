@@ -51,6 +51,7 @@ Step 5. What You Learn From This Project
 - How simple game logic is designed and implemented
 -----------------
 Step 6. File Structure
+
 project-folder/
 │
 ├── tic_tac_toe.py

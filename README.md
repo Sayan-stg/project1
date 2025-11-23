@@ -3,11 +3,14 @@ Tic-Tac-Toe Game in Python
 
 ---------------
 Step 1. Introduction
+
+
 This project is a simple and easy-to-understand Tic‑Tac‑Toe game made using Python.
 It runs in the terminal and lets two players, X and O, take turns by entering positions.
 from 1 to 9. The goal of this project was to practice basic Python concepts while creating
 a small but complete working game. It uses simple logic, lists, and functions—making it
 perfect for beginners.
+
 ----------------------
 Step 2. How the Game Works
 
@@ -30,7 +33,8 @@ There are 8 possible ways to win:
 The player will win if he/she can fill any one of these lines with their symbol.
 ------------------------
 Step 4. Running the Game
-------------
+
+
 1. Install Python, if it isn't already installed.
 2. Save the script as: tic_tac_toe.py
 3. Open your Command Prompt or Terminal.

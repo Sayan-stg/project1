@@ -56,6 +56,7 @@ project-folder/
 │
 ├── tic_tac_toe.py
 └── README
+
 ------------
 Step 7. Conclusion
 This Tic Tac Toe project is a demonstration of how simple concepts can be

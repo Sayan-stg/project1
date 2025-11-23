@@ -54,7 +54,7 @@ Step 6. File Structure
 
 project-folder/
 │
-├── tic_tac_toe.py
+├── main.py
 └── README
 
 ------------
